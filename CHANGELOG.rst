@@ -1,9 +1,8 @@
-.. DEPRECATED: This changelog is no longer maintained. Release notes are
-   published only on the GitHub Releases page:
-   https://github.com/openedx/edx-when/releases
-
 Change Log
 ----------
+
+This changelog is no longer maintained. Release notes are published only on
+the `GitHub Releases page <https://github.com/openedx/edx-when/releases>`_.
 
 ..
    All enhancements and patches to edx_when will be documented
